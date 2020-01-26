@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# open-liberty(ol)
+#/opt/ol/wlp/bin/server run defaultServer
+
+# was-liberty(ibm)
+/opt/ibm/wlp/bin/server run defaultServer

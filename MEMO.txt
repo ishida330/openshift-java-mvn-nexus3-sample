@@ -1,0 +1,8 @@
+assembleでのmvn packageが遅いのでnexusで高速化する
+===
+[Improving Build Time of Java Builds on OpenShift](https://blog.openshift.com/improving-build-time-java-builds-openshift/)
+
+see https://github.com/jorgemoralespou/nexus-ose
+
+oc new-project ci --display-name="Continuous Integration for OpenShift" --description="This project holds all continuous integration required infrastructure, like Nexus, Jenkins,..."
+
