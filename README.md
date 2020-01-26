@@ -1,2 +1,2 @@
 # openshift-java-mvn-nexus3-sample
-Sample project 
+Sample project (work in progress )
